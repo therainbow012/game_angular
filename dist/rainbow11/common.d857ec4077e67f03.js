@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrainbow11=self.webpackChunkrainbow11||[]).push([[592],{4766:(u,e,n)=>{n.d(e,{M:()=>s});const s=200},553:(u,e,n)=>{n.d(e,{N:()=>s});const s={production:!1,baseUrl:"http://13.53.216.224/api/"}}}]);
